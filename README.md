@@ -1,5 +1,4 @@
 # EDA-on-dataset-using-python-notebook
-# Exploratory Data Analysis (EDA) of BigBasket
 (https://www.kaggle.com/datasets/chinmayshanbhag/big-basket-products)🔎
 
 ## Description:
